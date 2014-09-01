@@ -223,7 +223,7 @@
 <li><a href="https://code.google.com/p/crypto-js/">CryptoJS</a> - коллекция криптографических алгоритмов.</li>     
 <li><a href="https://github.com/futurepress/epub.js">Epub.js</a></li>
 <li><a href="https://github.com/Stuk/jszip">JSzip</a></li>
-<li><li><a href="https://github.com/bgrins/videoconverter.js">Videoconverter.js</a></li></li>
+<li><a href="https://github.com/bgrins/videoconverter.js">Videoconverter.js</a></li>
 </ul>
 </li>
 <li>
