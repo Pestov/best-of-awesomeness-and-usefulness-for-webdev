@@ -364,7 +364,7 @@
 <ul>
 <li><a href="https://webflow.com/">Webflow</a></li>
 <li><a href="http://macaw.co/">Macaw</a></li>
-<li><a href="http://froont">Froont</a></li>
+<li><a href="http://froont.com">Froont</a></li>
 <li><a href="http://www.imcreator.com/">IMcreator</a></li>
 </ul>
 
