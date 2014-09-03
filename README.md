@@ -381,7 +381,7 @@
 
 <li><a href="https://github.com/docker/docker">Docker</a> - для автоматизации развёртывания и управления приложениями в среде виртуализации.</li>
 <li><a href="https://github.com/google/cayley">Cayley</a> - графическая база данных от Google.</li>
-<li><a href="https://github.com/maxogden/dat">Dat</a> - система контроля верий при работе с большими данными.</li>
+<li><a href="https://github.com/maxogden/dat">Dat</a> - система контроля версий при работе с большими данными.</li>
 <li><a href="https://github.com/burocratik/outdated-browser">Outdated browser</a> - cамый изящный способ сообщить пользователю о том, что его браузер устарел.</li>
 
 <li><a href="http://habrahabr.ru/post/218199/">Лучшие платные Photoshop плагины для веб-дизайнеров</a></li>
