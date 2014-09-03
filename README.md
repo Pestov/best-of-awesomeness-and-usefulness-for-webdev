@@ -370,7 +370,7 @@
 
 <h4><b>Напоследок:</b></h4>
 <ul>
-<li><a href="awesome-awesomeness">Awesome Awesomeness</a></li>
+<li><a href="https://github.com/bayandin/awesome-awesomeness">Awesome Awesomeness</a></li>
 <li><a href="https://github.com/dypsilon/frontend-dev-bookmarks">Frontend Dev Bookmarks</a></li>
 <li><a href="https://github.com/vhf/free-programming-books">List of Free Learning Resources</a></li>
 <li><a href="https://github.com/cjbarber/ToolsOfTheTrade#user-content-social-media-marketing">Tools Of TheTrade</a></li>
