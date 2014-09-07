@@ -96,7 +96,7 @@
 - пошаговые инструкции к интерфейсу.</li>
 <li><a href="http://lab.idered.pl/editr/">Editr.js</a> - HTML/CSS/JS песочника, на подобии CodePen, JSFiddle.</li>
 <li><a href="http://simplecartjs.org/">simpleCart.js</a> - скрипт корзины для интернет магазина.</li>
-<li><a href="http://aroc.github.io/side-comments-demo/">SideComments.js</a> - система комментарования как на Medium.</li>
+<li><a href="http://aroc.github.io/side-comments-demo/">SideComments.js</a> - система комментирования как на Medium.</li>
 <li><a href="https://github.com/CartoDB/odyssey.js">Odyssey</a> - интерактивные истории с привязкой к геолокации.</li>
 <li><a href="https://github.com/carlsednaoui/ouibounce">Ouibounce</a> - модальные окна для ретаргетинга.</li>
 <li><a href="http://vodkabears.github.io/vide/">VIDE.js</a> - простой способ сделать видео-фон.</li>
