@@ -37,7 +37,7 @@
 <ul>
 
 <li><a href="http://anijs.github.io/">AniJS</a> - декларативный способ описания анимаций.</li>
-<li><a href="https://github.com/ThrivingKings/animo.js">Animo.js</a> - динамичная работа с Animation.css.inte</li>
+<li><a href="https://github.com/ThrivingKings/animo.js">Animo.js</a> - динамичная работа с Animation.css.</li>
 <li><a href="https://github.com/wagerfield/parallax">Parallax.js</a> и <a href="https://github.com/Prinzhorn/skrollr">Skrollr</a> - лучшие решение для создания parallax эффекта.</li>
 <li><a href="https://github.com/peachananr/onepage-scroll">Onepage-scroll.js</a> и <a href="https://github.com/alvarotrigo/fullPage.js">fullPage.js</a> - для разботки сайтов с прокруткой в один скролл.</li>
 <li><a href="https://github.com/bartaz/impress.js">Impress.js</a> и <a href="https://github.com/hakimel/reveal.js">Reveal.js</a> - лучшие движки для презентаций.</li>
