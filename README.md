@@ -49,7 +49,7 @@
 </ul>
 </li>
 <li>
-<b>Графика и Моделирование</b>
+<b>Graphics and Modeling</b>
 <ul>
 <li>
 <a href="https://github.com/dc-js/dc.js">DC.js</a>, <a href="https://github.com/fastly/epoch/">Epoch.js</a>, <a href="https://github.com/nnnick/Chart.js">Chart.js</a> и <a href="https://github.com/almende/vis/">Vis.js</a> - the best data visualisers. 
@@ -82,7 +82,6 @@
 <li><a href="http://www.dropzonejs.com/">Dropzone</a>, <a href="http://desandro.github.io/imagesloaded/">imagesLoaded</a> - dynamic file uploaders.</li>
 <li><a href="http://kylestetz.github.io/CLNDR/">CLNDR.js</a>, <a href="https://github.com/dbushell/Pikaday">Pikaday.js</a>, <a href="https://github.com/bevacqua/rome">Rome.js</a> - the best of calendats and datapickers.</li>
 <li><a href="https://github.com/suffick/Picker">Picker.js</a>  - the best colorpicker independent from other libraries.</li>
-<li><a href=""></a></li>
 <li><a href="http://fronteed.com/iCheck/#features">iCheck</a> - super customized checkboxes and radio buttons for jQuery & Zepto.</li>
 <li><a href="http://github.hubspot.com/pace/docs/welcome/">Pace.js</a>, <a href="https://github.com/jacoborus/nanobar">Nanobar.js</a> - the best of progress bars.</li>
 <li><a href="https://github.com/HubSpot/vex">Vex</a> - modern dialog library which is highly configurable and easy to style.</li>
@@ -101,7 +100,7 @@
 </ul>
 </li>
 <li>
-<b>Разное</b>
+<b>Other</b>
 <ul>
 <li><a href="https://github.com/guardian/frontend">Source for the Guardian's responsive site.</a></li>
 <li><a href="https://github.com/aFarkas/webshim">Webshim</a> - modular capability-based polyfill-loading library.</li> 
