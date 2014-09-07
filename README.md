@@ -36,10 +36,10 @@
 <b>Эффекты</b>
 <ul>
 
-<li><a href="http://anijs.github.io/">AniJS</a> - декларативные способ описания анимаций.</li>
-<li><a href="https://github.com/ThrivingKings/animo.js">Animo.js</a> - динамичная работа с Animation.css</li>
-<li><a href="https://github.com/wagerfield/parallax">Parallax.js</a> и <a href="https://github.com/Prinzhorn/skrollr">Skrollr</a> - </li>
-<li><a href="https://github.com/peachananr/onepage-scroll">Onepage-scroll.js</a> и <a href="https://github.com/alvarotrigo/fullPage.js">fullPage.js</a> - для разботки сайтов с прокрутокой в один скролл.</li>
+<li><a href="http://anijs.github.io/">AniJS</a> - декларативный способ описания анимаций.</li>
+<li><a href="https://github.com/ThrivingKings/animo.js">Animo.js</a> - динамичная работа с Animation.css.inte</li>
+<li><a href="https://github.com/wagerfield/parallax">Parallax.js</a> и <a href="https://github.com/Prinzhorn/skrollr">Skrollr</a> - лучшие решение для создания parallax эффекта.</li>
+<li><a href="https://github.com/peachananr/onepage-scroll">Onepage-scroll.js</a> и <a href="https://github.com/alvarotrigo/fullPage.js">fullPage.js</a> - для разботки сайтов с прокруткой в один скролл.</li>
 <li><a href="https://github.com/bartaz/impress.js">Impress.js</a> и <a href="https://github.com/hakimel/reveal.js">Reveal.js</a> - лучшие движки для презентаций.</li>
 <li><a href="https://github.com/alvarotrigo/multiscroll.js">Multiscroll.js</a> - великолепный эффект.</li>
 <li><a href="https://github.com/julianlloyd/scrollReveal.js">scrollReveal.js</a> и <a href="https://github.com/matthieua/WOW">WOW</a> - "разоблачаем" анимации при скроллинге.</li>
@@ -71,7 +71,7 @@
 <li>
 <b>AJAX</b>
 <ul>
-<li><a href="https://github.com/LeadDyno/intercooler-js">Intercooler.js</a> - декларативный метод использования AJAX</li>
+<li><a href="https://github.com/LeadDyno/intercooler-js">Intercooler.js</a> - декларативный метод использования AJAX.</li>
 <li><a href="https://github.com/toddmotto/echo">Echo.js</a> и <a href="https://github.com/airbnb/infinity">Infinity.js</a> - лучшая ленивая подгрузка.</li>
 <li><a href="https://github.com/madgex/lazy-ads">Lazy Ads</a> - ленивая подгрузка для всех рекламных блоков.</li>
 <li><a href="https://github.com/filamentgroup/loadCSS/">loadCSS</a></li>
@@ -81,13 +81,13 @@
 <b>UI/UX</b>
 <ul>
 <li><a href="https://github.com/dieulot/instantclick">InstantClick</a> и <a href="https://github.com/ftlabs/fastclick">FastClick.js</a>  - на 300мс ускоряют обработку всех кликов и прикосновений.</li>
-<li><a href="https://github.com/ejci/favico.js">Favico.js</a> - всевозможные манипуляции с отображением favicon</li>
+<li><a href="https://github.com/ejci/favico.js">Favico.js</a> - всевозможные манипуляции с отображением favicon.</li>
 <li><a href="https://github.com/twitter/typeahead.js">Typeahead.js</a>, <a href="http://ichord.github.io/At.js/">At.js</a>, <a href="https://github.com/atmb4u/AutoJS">Auto.js</a> - лучшие решение для автозаполнения.</li>
 <li><a href="http://www.dropzonejs.com/">Dropzone</a>, <a href="http://desandro.github.io/imagesloaded/">imagesLoaded</a> - динамичная загрузка файлов.</li>
 <li><a href="http://kylestetz.github.io/CLNDR/">CLNDR.js</a>, <a href="https://github.com/dbushell/Pikaday">Pikaday.js</a>, <a href="https://github.com/bevacqua/rome">Rome.js</a> - лучшие календари и датапикеры.</li>
 <li><a href="https://github.com/suffick/Picker">Picker.js</a>  - лучший colorpicker независимый от сторонник библиотек.</li>
 <li><a href=""></a></li>
-<li><a href="http://fronteed.com/iCheck/#features">iCheck</a> - кастомные кроссплатформенные радио и чекбокс кнопки для jQuery и Zepto</li>
+<li><a href="http://fronteed.com/iCheck/#features">iCheck</a> - кастомные кроссплатформенные радио и чекбокс кнопки для jQuery и Zepto.</li>
 <li><a href="http://github.hubspot.com/pace/docs/welcome/">Pace.js</a>, <a href="https://github.com/jacoborus/nanobar">Nanobar.js</a> - лучшие прогрессбары.</li>
 <li><a href="https://github.com/HubSpot/vex">Vex</a> - модальные окна 21 века.</li>
 <li><a href="https://github.com/HubSpot/messenger">Messenger</a> и <a href="http://sciactive.com/pnotify/">PNotify</a> - лучшие уведомления.</li>	
@@ -96,9 +96,9 @@
 - пошаговые инструкции к интерфейсу.</li>
 <li><a href="http://lab.idered.pl/editr/">Editr.js</a> - HTML/CSS/JS песочника, на подобии CodePen, JSFiddle.</li>
 <li><a href="http://simplecartjs.org/">simpleCart.js</a> - скрипт корзины для интернет магазина.</li>
-<li><a href="http://aroc.github.io/side-comments-demo/">SideComments.js</a> - система комментарования как на Medium</li>
-<li><a href="https://github.com/CartoDB/odyssey.js">Odyssey</a> - интерактивные история с прявязкой к геолокации.</li>
-<li><a href="https://github.com/carlsednaoui/ouibounce">Ouibounce</a> - модальные окна для ретаргентинга.</li>
+<li><a href="http://aroc.github.io/side-comments-demo/">SideComments.js</a> - система комментарования как на Medium.</li>
+<li><a href="https://github.com/CartoDB/odyssey.js">Odyssey</a> - интерактивные истории с привязкой к геолокации.</li>
+<li><a href="https://github.com/carlsednaoui/ouibounce">Ouibounce</a> - модальные окна для ретаргетинга.</li>
 <li><a href="http://fgnass.github.io/spin.js/">Spin.js</a> - мощный генератор спинеров.</li>
 <li><a href="https://github.com/bigspaceship/shine.js">Shine.js</a> - функциональный генератор теней.</li>
 <li><a href="https://github.com/Colourity/Fort.js">Fort.js</a> - прогресс бар для заполнения форм.</li>
@@ -107,13 +107,13 @@
 <li>
 <b>Разное</b>
 <ul>
-<li><a href="https://github.com/guardian/frontend">Фронт главного сайта The Guardian</a></li>
-<li><a href="https://github.com/aFarkas/webshim">Webshim</a> - всем полифилам полифил</li> 
+<li><a href="https://github.com/guardian/frontend">Фронт главного сайта The Guardian.</a></li>
+<li><a href="https://github.com/aFarkas/webshim">Webshim</a> - всем полифилам полифил.</li> 
 
 
 <li><a href="https://github.com/loadfive/Knwl.js">Knwl.js</a> — находит в тексте даты, время, email'ы, ссылки, адреса и смайлы.</li>
 <li><a href="https://github.com/VerbalExpressions/JSVerbalExpressions">VerbalExpressions</a> - беззаботные регулярные выражения.</li>
-<li><a href="https://github.com/nbubna/HTML">HTML.js</a> - интересные синтаксис для работы c DOM.</li>
+<li><a href="https://github.com/nbubna/HTML">HTML.js</a> - интересный синтаксис для работы c DOM.</li>
 
 <li><a href="https://github.com/moment/moment/">Moment.js</a> - все что нужно для работый с датой.</li>
 <li><a href="https://github.com/adamwdraper/Numeral-js">Numeral.js</a> - библиотека для форматирования и манипулирования с числами.</li>
@@ -131,9 +131,9 @@
 <li><a href=""></a></li>
 <li><a href="https://github.com/olivernn/lunr.js">Lunr.js</a> - полноценный поиск на стороне клиента.</li>
 <li><a href="https://github.com/codemix/fast.js">Fast.js</a> - коллекция наиболее используемых функций в JavaScript.</li>
-<li><a href="http://tether.io/">Tether</a> - легко и просто привязываем друг к другу абсолютно позиционированные элементы</li>
+<li><a href="http://tether.io/">Tether</a> - легко и просто привязываем друг к другу абсолютно позиционированные элементы.</li>
     
-<li><a href="https://github.com/flowjs/flow.js">Flow.js</a> - выжимает все соки из HTML5 File API</li>      
+<li><a href="https://github.com/flowjs/flow.js">Flow.js</a> - выжимает все соки из HTML5 File API.</li>      
 <li><a href="http://dmauro.github.io/Keypress/">Keypress</a> - лучший обработчик событий с клавиатуры.</li>
 <li><a href="https://github.com/EightMedia/hammer.js">Hammer.js</a> - лучший обработчик "трогательных" событий.</li>
 <li><a href="http://draggabilly.desandro.com">Draggabilly</a> - тяни-бросай библиотека на чистом JS.</li>
@@ -150,7 +150,7 @@
 
 <li><a href="https://github.com/darcyclarke/Detect.js">Detect.js</a> - определяет все, что только может определить JavaScript о браузере.</li>
 <li><a href="https://github.com/winjs/winjs">WinJS от Microsoft</a></li>
-<li><a href="https://github.com/ask11/storage">Storage.js</a><a href="https://github.com/mozilla/localForage">localForage</a></li>
+<li><a href="https://github.com/ask11/storage">Storage.js</a> <a href="https://github.com/mozilla/localForage">localForage</a> - для работы с локальных хранилищем.</li>
 <li><a href="http://julian.com/research/blast/">Blast.js</a> — для различных манипуляций с текстом.</li>
 <li><a href="http://trackingjs.com/">Tracking.js</a> - набор алгоритмов техник компьютерного зрения.</li>
 <li><a href="http://vodkabears.github.io/vide/">VIDE.js</a> - легко способ сделать видео-фон.</li>
@@ -164,7 +164,7 @@
 <li><a href="https://github.com/rwaldron/idiomatic.js/">Idiomatic.js</a>, <a href="https://github.com/airbnb/javascript">Airbnb JavaScript</a> - руководоства по стилю кода.</li>
 <li><a href="https://github.com/bolshchikov/js-must-watch">JS Must Watch</a> - «Живой список» лучших видео с лекций и конференций по JavaScript.</li>
 <li><a href="http://superherojs.com/#language">Superhero</a> - кладезь полезнейшей информации для JavaScript разработчиков.</li>
-<li><a href="http://jsnice.org/">JSNice</a> - умный и обучаемы деобфускатор для JavaScript.</li>
+<li><a href="http://jsnice.org/">JSNice</a> - умный и обучаемый деобфускатор для JavaScript.</li>
 <li><a href="https://github.com/yaniswang/HTMLHint">HTMLHint</a> - анализирует ошибки в HTML.</li>
 <li><a href="https://github.com/google/traceur-compiler">Google Traceur Compiler</a> - «JavaScript.next-to-JavaScript-of-today compiler».</li>
 </ul>
@@ -181,8 +181,8 @@
 <li><a href="https://github.com/madebysource/lesshat">LESSHAT</a> - пожалуй самая полезная коллекция миксинов для LESS.</li>
 <li><a href="https://github.com/drublic/css-modal">CSS Modal</a> - самые простоые модальный окна.</li>
 <li><a href="https://developers.google.com/web/starter-kit/">Web Starter Kit</a>, <a href="https://github.com/yahoo/pure">Pure</a>, <a href="https://github.com/uikit/uikit">Uikit</a>, <a href="https://github.com/topcoat/topcoat">Topcoat</a>, <a href="https://github.com/csswizardry/inuit.css">Inuit</a>, <a href="http://designmodo.github.io/Flat-UI/">Flat UI</a> - HTML фреймворки.</li>
-<li><a href="http://maker.github.io/ratchet/">Ratchet</a>, <a href="http://getclank.com/">Clank</a>, <a href="https://github.com/driftyco/ionic/">Ionic</a> - мобильные HTML фреймворки.</li>
-<li><a href="http://zurb.com/ink/">Ink</a> - CSSфреймворк для верстки электронных писем.</li>
+<li><a href="http://maker.github.io/ratchet/">Ratchet</a>, <a href="http://getclank.com/">Clank</a>, <a href="https://github.com/driftyco/ionic/">Ionic</a>, <a href="http://www.idangero.us/framework7/">Framework7</a> - мобильные HTML фреймворки.</li>
+<li><a href="http://zurb.com/ink/">Ink</a> - CSS фреймворк для верстки электронных писем.</li>
 <li><a href="http://thoughtbot.github.io/refills/">Refills</a> - «расфасованные» паттерны, копоненты, миксины и все самое лучшее из Bourbon, Bitters и Neat.</li>
 <li><a href="http://jeet.gs/">Jeet</a> - сетки для людей.</li>
 <li><a href="https://github.com/operasoftware/ucss">UCSS</a>/<a href="https://github.com/geuis/helium-css">Helium</a>, <a href="https://github.com/begriffs/css-ratiocinator">CSS Raticinator</a> и <a href="https://github.com/frankmarineau/shorthand">Shorthand</a> - убираем лишние стили, рационализируем и преображаем CSS.</li>
