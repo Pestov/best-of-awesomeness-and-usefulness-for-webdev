@@ -96,9 +96,10 @@
 - пошаговые инструкции к интерфейсу.</li>
 <li><a href="http://lab.idered.pl/editr/">Editr.js</a> - HTML/CSS/JS песочника, на подобии CodePen, JSFiddle.</li>
 <li><a href="http://simplecartjs.org/">simpleCart.js</a> - скрипт корзины для интернет магазина.</li>
-<li><a href="http://aroc.github.io/side-comments-demo/">SideComments.js</a> - система комментирования как на Medium.</li>
+<li><a href="http://aroc.github.io/side-comments-demo/">SideComments.js</a> - система комментарования как на Medium.</li>
 <li><a href="https://github.com/CartoDB/odyssey.js">Odyssey</a> - интерактивные истории с привязкой к геолокации.</li>
 <li><a href="https://github.com/carlsednaoui/ouibounce">Ouibounce</a> - модальные окна для ретаргетинга.</li>
+<li><a href="http://vodkabears.github.io/vide/">VIDE.js</a> - простой способ сделать видео-фон.</li>
 <li><a href="http://fgnass.github.io/spin.js/">Spin.js</a> - мощный генератор спинеров.</li>
 <li><a href="https://github.com/bigspaceship/shine.js">Shine.js</a> - функциональный генератор теней.</li>
 <li><a href="https://github.com/Colourity/Fort.js">Fort.js</a> - прогресс бар для заполнения форм.</li>
@@ -121,6 +122,7 @@
 <li><a href="https://github.com/josdejong/mathjs">Math.js</a> и <a href="https://github.com/jcoglan/sylvester">Sylvester</a> - для более функциональной математики в JavaScript.</li>
 
 <li><a href="https://github.com/alekseykulikov/storage">Storage</a> - Asynchronous browser storage with multiple back-ends (IndexedDB, WebSQL, localStorage).</li>
+<li><a href="https://github.com/ask11/storage">Storage.js</a>, <a href="https://github.com/mozilla/localForage">localForage</a> - для работы с локальных хранилищем.</li>
 <li><a href="https://github.com/square/crossfilter">Crossfilter</a> - Fast n-dimensional filtering and grouping of records. от Square</li>
 <li><a href="https://github.com/facebook/jest">Jest</a> - Painless JavaScript Unit Testing от Facebook.</li>
 
@@ -150,10 +152,8 @@
 
 <li><a href="https://github.com/darcyclarke/Detect.js">Detect.js</a> - определяет все, что только может определить JavaScript о браузере.</li>
 <li><a href="https://github.com/winjs/winjs">WinJS от Microsoft</a></li>
-<li><a href="https://github.com/ask11/storage">Storage.js</a> <a href="https://github.com/mozilla/localForage">localForage</a> - для работы с локальных хранилищем.</li>
 <li><a href="http://julian.com/research/blast/">Blast.js</a> — для различных манипуляций с текстом.</li>
 <li><a href="http://trackingjs.com/">Tracking.js</a> - набор алгоритмов техник компьютерного зрения.</li>
-<li><a href="http://vodkabears.github.io/vide/">VIDE.js</a> - легко способ сделать видео-фон.</li>
 <li><a href="https://github.com/mike-zarandona/PrettyEmbed.js">PrettyEmbed.js</a> - заставляет видео-вставки выглядеть лучше.</li>
 <li><a href="https://github.com/medialize/URI.js">URI.js</a> - единственный правильный выбор для работы с URL.</li>
 <li><a href="https://github.com/cure53/DOMPurify"> DOMPurify - «дезинфицирует и препятствует XSS».</a></li>
@@ -175,18 +175,18 @@
 <h5>HTML/CSS</h5>
 <ul>
 <li><a href="https://github.com/daneden/animate.css">Animate.css</a>, <a href="https://github.com/h5bp/Effeckt.css">Effeckt.css</a>, <a href="http://ianlunn.github.io/Hover/">Hover.css</a> - коллекции потрясающих CSS анимаций.</li>
-<li><a href="https://github.com/hakimel/stroll.js">Stroll</a>- шедевральные эффекты при скролинге.</li>
+<li><a href="https://github.com/hakimel/stroll.js">Stroll</a> - шедевральные эффекты при скролинге.</li>
 <li><a href="https://github.com/jxnblk/loading">Loading</a> и <a href="">CSS Loaders</a> - лучшие CSS прелоудеры.</li>
 <li><a href="https://github.com/chinchang/hint.css">Hint.css</a> - красивые всплывающие подсказки на чистом CSS.</li>
 <li><a href="https://github.com/madebysource/lesshat">LESSHAT</a> - пожалуй самая полезная коллекция миксинов для LESS.</li>
-<li><a href="https://github.com/drublic/css-modal">CSS Modal</a> - самые простоые модальный окна.</li>
+<li><a href="https://github.com/drublic/css-modal">CSS Modal</a> - самые простые модальный окна.</li>
 <li><a href="https://developers.google.com/web/starter-kit/">Web Starter Kit</a>, <a href="https://github.com/yahoo/pure">Pure</a>, <a href="https://github.com/uikit/uikit">Uikit</a>, <a href="https://github.com/topcoat/topcoat">Topcoat</a>, <a href="https://github.com/csswizardry/inuit.css">Inuit</a>, <a href="http://designmodo.github.io/Flat-UI/">Flat UI</a> - HTML фреймворки.</li>
 <li><a href="http://maker.github.io/ratchet/">Ratchet</a>, <a href="http://getclank.com/">Clank</a>, <a href="https://github.com/driftyco/ionic/">Ionic</a>, <a href="http://www.idangero.us/framework7/">Framework7</a> - мобильные HTML фреймворки.</li>
 <li><a href="http://zurb.com/ink/">Ink</a> - CSS фреймворк для верстки электронных писем.</li>
 <li><a href="http://thoughtbot.github.io/refills/">Refills</a> - «расфасованные» паттерны, копоненты, миксины и все самое лучшее из Bourbon, Bitters и Neat.</li>
 <li><a href="http://jeet.gs/">Jeet</a> - сетки для людей.</li>
 <li><a href="https://github.com/operasoftware/ucss">UCSS</a>/<a href="https://github.com/geuis/helium-css">Helium</a>, <a href="https://github.com/begriffs/css-ratiocinator">CSS Raticinator</a> и <a href="https://github.com/frankmarineau/shorthand">Shorthand</a> - убираем лишние стили, рационализируем и преображаем CSS.</li>
-<li><a href="https://github.com/visionmedia/rework">Rework</a> - произвольный CSS препроцессор для Node.js и браузеров</li>
+<li><a href="https://github.com/visionmedia/rework">Rework</a> - произвольный CSS препроцессор для Node.js и браузеров.</li>
 <li><a href="http://twitter.github.io/recess/">RECESS</a> - линтер/компилер для CSS и LESS от команды Twitter.</li>
 <li><a href="https://github.com/necolas/idiomatic-css">Idiomatic.css</a> - руководство по стилю кода.</li>
 <li><a href="http://w3c.github.io/elements-of-html/">The Elements of HTML</a> — для тех кто чтит семантику.</li>
@@ -204,16 +204,16 @@
 <li><a href="https://github.com/soygul/koan">KOAN Stack (Koa, Angular, Node, Mongo, WebSockets)</a></li>
 <li><a href="https://github.com/mjijackson/mach">Mach.js</a> - лучший путь для построения полностью асинхронного сервера.</li>
 <li><a href="https://github.com/strongloop/loopback">LoopBack</a> - лучшее из Express.</li>
-<li><a href="https://github.com/marmelab/gremlins.js">Gremlins.js</a> -  эмулирует случайные действия пользователя для обнаружения ошибок в интерфейсе.</li>
+<li><a href="https://github.com/marmelab/gremlins.js">Gremlins.js</a> - эмулирует случайные действия пользователя для обнаружения ошибок в интерфейсе.</li>
 <li><a href="https://github.com/ruipgil/scraperjs">Scraper.js</a> - великолепный веб-парсер.</li>
 <li><a href="http://www.collectionsjs.com/">Сollections.js</a> - огромный комплект функций для работы с коллекциями.</li>
 <li><a href="https://github.com/paypal/kraken-js">Kraken-js</a> - express-based Node.js web application bootstrapping module by PayPal</li>
-<li>"<a href="http://sailsjs.org">Sails.js</a> make it easy to build custom, enterprise-grade Node.js apps."</li>
+<li>"<a href="http://sailsjs.org">Sails.js</a> - make it easy to build custom, enterprise-grade Node.js apps.</li>
 <li><a href="http://www.rethinkdb.com/">RethinkDB</a></li>
-<li><a href="http://mongoosejs.com/">Mongoose - одна из лучших (если не лучшая) ORM для MongoDB</a></li>
-<li><a href="http://sequelizejs.com/">Sequelize</a> - очень продуманная ORM для SQL-подобных СУБД</li>
+<li><a href="http://mongoosejs.com/">Mongoose - одна из лучших (если не лучшая) ORM для MongoDB.</a></li>
+<li><a href="http://sequelizejs.com/">Sequelize</a> - очень продуманная ORM для SQL-подобных СУБД.</li>
 <li><a href="https://github.com/lovell/sharp">Sharp</a> - самый быстрый npm модуль для изменения размеров JPEG, PNG, WebP и TIFF.</li>
-<li><a href="http://grafana.org/">Grafana</a> - графики и дашборды для самых ненасытных</li>
+<li><a href="http://grafana.org/">Grafana</a> - графики и дашборды для самых ненасытных.</li>
 <li><a href="https://github.com/NodeBB/NodeBB">NodeBB</a> - качественный современный форум.</li>
 <li><a href="https://github.com/bitcoinjs/bitcoinjs-lib">BitcoinJS</a>, <a href="https://github.com/bitpay/bitcore">Bitcore</a> - библиотеки для работы с Bitcoin.</li>
 <li><a href="http://mailin.io/">Mailin</a>, <a href="https://github.com/andris9/Nodemailer">Nodemailer</a>, <a href="http://emailjs.org/">Mail.js</a> - библиотеки для работы с email.</li>
@@ -254,7 +254,7 @@
 <li><a href="https://github.com/jakubroztocil/httpie">HTTPie</a> - command line HTTP client.</li>    
 <li><a href="https://github.com/antiboredom/videogrep">Videogrep</a> - поиск диалогов в видео.</li>
 <li><a href="https://github.com/inboxapp/inbox">Inbox</a> — «The next-generation email platform» на Python.</li>
-<li><a href="">Mailur</a> - email клиент.</li>
+<li><a href="https://github.com/naspeh/mailur">Mailur</a> - email клиент.</li>
 <li><a href="https://github.com/crsmithdev/arrow">Arrow</a> — библиотека для работы с датой и временем.</li>
 <li><a href="https://github.com/sympy/sympy">Sympy</a> — computer algebra system written</li>
 <li><a href="https://github.com/Jahaja/psdash">PSDash</a> - Linux web dashboard.</li>
@@ -267,10 +267,10 @@
 <ul>
 <li><a href="https://github.com/javan/whenever">Whenever</a> - Cron jobs in Ruby.</li>    
 <li><a href="https://github.com/tombh/peas">PEAS</a> - Docker and Ruby based PaaS.</li>
-<li><a href="https://github.com/jamesrwhite/minicron">Minicron</a> - система управления и мониторинга Cron Jobs</li>
+<li><a href="https://github.com/jamesrwhite/minicron">Minicron</a> - система управления и мониторинга Cron Jobs.</li>
 <li><a href="http://lotusrb.org/">Lotus</a> - «полноценный веб-фреймворк для Ruby».</li>
-<li><a href="https://github.com/ankane/pghero">PgHero</a> — database insights made eas</li>
-<li><a href="https://github.com/layervault/psd.rb">PSD.rb</a> - библиотека для работы с .PSD файлами</li>
+<li><a href="https://github.com/ankane/pghero">PgHero</a> — database insights made easy.</li>
+<li><a href="https://github.com/layervault/psd.rb">PSD.rb</a> - библиотека для работы с .PSD файлами.</li>
 <li><a href="https://github.com/churchio/onebody">Onebody</a> - церковная социальная сеть.</li>
 <li><a href="https://github.com/ryan-endacott/verbal_expressions">VerbalExpressions</a> - беззаботные регулярные выражения.</li>
 </ul>
@@ -377,10 +377,10 @@
 <li><a href="https://github.com/neiesc/ListOfMinimalistFrameworks">List Of Minimalist Frameworks</a></li>
 <li><a href="https://github.com/daylerees/colour-schemes">Colour Schemes</a> - огромное количество тем, для множества редакторов.</li>
 <li><a href="https://github.com/github/gitignore">Gitignore</a> - огромная коллекция .gitignore шаблонов</li>
-<li><a href="https://github.com/cure53/H5SC">HTML5 Security Cheatsheet </a>- целый сборник XSS примеров.</li>
+<li><a href="https://github.com/cure53/H5SC">HTML5 Security Cheatsheet</a> - целый сборник XSS примеров.</li>
 
 <li><a href="https://github.com/docker/docker">Docker</a> - для автоматизации развёртывания и управления приложениями в среде виртуализации.</li>
-<li><a href="https://github.com/google/cayley">Cayley</a> - графическая база данных от Google.</li>
+<li><a href="https://github.com/google/cayley">Cayley</a> - графовая база данных от Google.</li>
 <li><a href="https://github.com/maxogden/dat">Dat</a> - система контроля версий при работе с большими данными.</li>
 <li><a href="https://github.com/burocratik/outdated-browser">Outdated browser</a> - cамый изящный способ сообщить пользователю о том, что его браузер устарел.</li>
 
