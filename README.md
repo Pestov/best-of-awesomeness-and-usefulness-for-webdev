@@ -1,3 +1,5 @@
+The best tools/frameworks/libraries of [A&U digests](http://ipestov.com) for web developers. Major different from other Awesome-* repositories is that this collection is try to gather one most suitable stuff, which doesn't need alternative for one specifically problem, instead of listing everything of good and even bad.
+
 <h4><b>Front-end</b></h4>
 <ul>
 <li>
@@ -31,7 +33,6 @@
 <li>
 <b>Effects</b>
 <ul>
-
 <li><a href="http://anijs.github.io/">AniJS</a> - declarative handling library for CSS animations.</li>
 <li><a href="https://github.com/ThrivingKings/animo.js">Animo.js</a> - powerful little tool for managing CSS animations</li>
 <li><a href="https://github.com/wagerfield/parallax">Parallax.js</a> и <a href="https://github.com/Prinzhorn/skrollr">Skrollr</a> - the best tools for creating parallax effect.</li>
@@ -55,6 +56,7 @@
 <a href="https://github.com/dc-js/dc.js">DC.js</a>, <a href="https://github.com/fastly/epoch/">Epoch.js</a>, <a href="https://github.com/nnnick/Chart.js">Chart.js</a> и <a href="https://github.com/almende/vis/">Vis.js</a> - the best data visualisers. 
 </li>
 <li><a href="https://github.com/mrdoob/three.js/">Three.js</a> - libary for 3D modelling.</li>
+<li><a href="https://github.com/robhawkes/vizicities">Vizicities</a> - 3D city and data visualisation platform.</li>
 <li><a href="https://github.com/wellcaffeinated/PhysicsJS">PhysicsJS</a> и <a href="https://github.com/hunterloftis/newton">Newton</a> - functional physical engines.</li>
 <a href="http://p5js.org/get-started/">P5.js</a> — processing simplicity times JavaScript flexibility.
 <li><a href="http://snapsvg.io/">Snap.svg</a> и <a href="https://github.com/wout/svg.js">SVG.js</a> - the best solutions for working with SVG.</li>
@@ -105,7 +107,7 @@
 <li><a href="https://github.com/guardian/frontend">Source for the Guardian's responsive site.</a></li>
 <li><a href="https://github.com/aFarkas/webshim">Webshim</a> - modular capability-based polyfill-loading library.</li> 
 
-
+<li><a href="https://github.com/Leaflet/Leaflet">Leaflet<a> и <a href="https://github.com/openlayers/openlayers">OpenLayers</a> - the best tools for working with interactive maps.</li>
 <li><a href="https://github.com/loadfive/Knwl.js">Knwl.js</a> — natural language processor.</li>
 <li><a href="https://github.com/VerbalExpressions/JSVerbalExpressions">VerbalExpressions</a> - regular expressions made easy.</li>
 <li><a href="https://github.com/nbubna/HTML">HTML.js</a> - simple, extensible way to work directly with the DOM.</li>
@@ -160,7 +162,7 @@
 <li><a href="http://superherojs.com/#language">Superhero</a> - storehouse of useful information for JavaScript developers.</li>
 <li><a href="http://jsnice.org/">JSNice</a> -  smart and educated the deobfuscator for JavaScript.</li>
 <li><a href="https://github.com/yaniswang/HTMLHint">HTMLHint</a> - analyzes errors in HTML.</li>
-<li><a href="https://github.com/google/traceur-compiler">Google Traceur Compiler</a> - «JavaScript.next-to-JavaScript-of-today compiler».</li>
+<li><a href="https://github.com/google/traceur-compiler">Google Traceur Compiler</a>, <a href="https://github.com/6to5/6to5">6to5</a> - «JavaScript.next-to-JavaScript-of-today compiler».</li>
 </ul>
 </li>
 </ul>
@@ -194,6 +196,7 @@
 <h5>NodeJS</h5>
 <ul>
 <li><a href="https://github.com/meteor/meteor">Meteor</a></li>
+<li><a href="https://github.com/NodeOS/NodeOS">NodeOS</a> - linux + node + npm.</li>
 <li><a href="https://github.com/linnovate/mean">MEAN.js</a> (Mongo, Express, Angular, Node) </li>
 <li><a href="https://github.com/soygul/koan">KOAN Stack (Koa, Angular, Node, Mongo, WebSockets)</a></li>
 <li><a href="https://github.com/mjijackson/mach">Mach.js</a> - HTTP for JavaScript.</li>

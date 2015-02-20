@@ -59,6 +59,7 @@
 <a href="https://github.com/dc-js/dc.js">DC.js</a>, <a href="https://github.com/fastly/epoch/">Epoch.js</a>, <a href="https://github.com/nnnick/Chart.js">Chart.js</a> и <a href="https://github.com/almende/vis/">Vis.js</a> - лучшие визуализаторы данных. 
 </li>
 <li><a href="https://github.com/mrdoob/three.js/">Three.js</a> - библиотека для 3D моделирования.</li>
+<li><a href="https://github.com/robhawkes/vizicities">Vizicities</a> - платформа для визуализации городов в 3D.</li>
 <li><a href="https://github.com/wellcaffeinated/PhysicsJS">PhysicsJS</a> и <a href="https://github.com/hunterloftis/newton">Newton</a> - функциональные физические движки.</li>
 <a href="http://p5js.org/get-started/">P5.js</a> — процессинговая библиотека для рисования.
 <li><a href="http://snapsvg.io/">Snap.svg</a> и <a href="https://github.com/wout/svg.js">SVG.js</a> - лучшие решения для работы с SVG.</li>
@@ -111,7 +112,7 @@
 <li><a href="https://github.com/guardian/frontend">Фронт главного сайта The Guardian.</a></li>
 <li><a href="https://github.com/aFarkas/webshim">Webshim</a> - всем полифилам полифил.</li> 
 
-
+<li><a href="https://github.com/Leaflet/Leaflet">Leaflet<a> и <a href="https://github.com/openlayers/openlayers">OpenLayers</a> - лучшие инструменты для работы с интерактивными картами.</li>
 <li><a href="https://github.com/loadfive/Knwl.js">Knwl.js</a> — находит в тексте даты, время, email'ы, ссылки, адреса и смайлы.</li>
 <li><a href="https://github.com/VerbalExpressions/JSVerbalExpressions">VerbalExpressions</a> - беззаботные регулярные выражения.</li>
 <li><a href="https://github.com/nbubna/HTML">HTML.js</a> - интересный синтаксис для работы c DOM.</li>
@@ -166,7 +167,7 @@
 <li><a href="http://superherojs.com/#language">Superhero</a> - кладезь полезнейшей информации для JavaScript разработчиков.</li>
 <li><a href="http://jsnice.org/">JSNice</a> - умный и обучаемый деобфускатор для JavaScript.</li>
 <li><a href="https://github.com/yaniswang/HTMLHint">HTMLHint</a> - анализирует ошибки в HTML.</li>
-<li><a href="https://github.com/google/traceur-compiler">Google Traceur Compiler</a> - «JavaScript.next-to-JavaScript-of-today compiler».</li>
+<li><a href="https://github.com/google/traceur-compiler">Google Traceur Compiler</a>, <a href="https://github.com/6to5/6to5">6to5</a> - «JavaScript.next-to-JavaScript-of-today compiler».</li>
 </ul>
 </li>
 </ul>
@@ -200,6 +201,7 @@
 <h5>NodeJS</h5>
 <ul>
 <li><a href="https://github.com/meteor/meteor">Meteor</a></li>
+<li><a href="https://github.com/NodeOS/NodeOS">NodeOS</a> - linux + node + npm.</li>
 <li><a href="https://github.com/linnovate/mean">MEAN.js</a> (Mongo, Express, Angular, Node) </li>
 <li><a href="https://github.com/soygul/koan">KOAN Stack (Koa, Angular, Node, Mongo, WebSockets)</a></li>
 <li><a href="https://github.com/mjijackson/mach">Mach.js</a> - лучший путь для построения полностью асинхронного сервера.</li>
