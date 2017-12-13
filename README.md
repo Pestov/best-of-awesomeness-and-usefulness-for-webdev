@@ -322,6 +322,7 @@ The best tools/frameworks/libraries of [A&U digests](http://ipestov.com) for web
 <li><a href="https://github.com/ai/autoprefixer">Autoprefixer</a> - forget about prefixes.</li>
 <li><a href="https://kraken.io/">Kraken</a> - service for image optimization.</li>
 <li><a href="https://gitter.im/">Gitter</a> - chat for geeks.</li>
+<li><a href="https://taskade.com/">Gitter</a> - instant collaborative task lists and outlines.</li>
 <li><a href="https://github.com/node-app/Interpreter">Node App</a> - Node.js interpreter for iOS 7.</li>
 <li><a href="http://browsersync.io/">BrowserSync</a> и <a href="https://github.com/facebook/fb-flo">FB Flo</a> - time-saving synchronised browser testing.</li>
 <li><a href="https://github.com/GitbookIO/gitbook">GitBook</a> - utility for generating books and exercises using GitHub/Git and Markdown.</li>
