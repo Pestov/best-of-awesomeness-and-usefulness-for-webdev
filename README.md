@@ -365,6 +365,13 @@ The best tools/frameworks/libraries of [A&U digests](http://ipestov.com) for web
 <li><a href="http://www.imcreator.com/">IMcreator</a></li>
 </ul>
 
+<h4><b>Task Management</b></h4>
+<ul>
+<li><a href="https://trello.com/">Trello</a></li>
+<li><a href="https://asana.com/">Asana</a></li>
+<li><a href="https://taskade.com">Taskade</a></li>
+</ul>
+
 <h4><b>Finally:</b></h4>
 <ul>
 <li><a href="awesome-awesomeness">Awesome Awesomeness</a></li>
